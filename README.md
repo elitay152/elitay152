@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elitay152
 - 👀 I’m interested in data analytics, machine learning, AI in healthcare.
-- 🌱 I’m currently learning data science, Python, SQL, Tableau.
+- 🌱 I’m currently learning data science, Python, SQL, R, Tableau.
 - 💞️ I’m looking to collaborate on data analytics and machine learning projects.
 - 📫 How to reach me ...
 
