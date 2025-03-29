@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @elitay152
-- 👀 I’m interested in data science, machine learning, AI in healthcare.
-- 🌱 I’m currently learning data science and full stack development.
-- 💞️ I’m looking to collaborate on data science and machine learning projects.
+- 👀 I’m interested in data science, data engineering, machine learning, and AI in healthcare.
 - 📫 How to reach me --> https://www.linkedin.com/in/eli-t-3572aa172/
 
 <!---
